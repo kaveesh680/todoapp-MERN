@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    border: 100px;
+    margin: 100px;   
+}
+
+.container{
+    border-radius: 20px;
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.Header{
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 80%;
+    margin: auto;
+}
